@@ -1,4 +1,3 @@
 # TareasTec
-Repositorio de las tareas que hago en el tec en general :)
+Repositorio de tareas Oct 2025
 
-//Cada módulo tiene su apartado (Calidad y Web)
